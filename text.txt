@@ -1,0 +1,3 @@
+This is a Read me file contains "Project Title," "Description," "Installation," "Usage," and "License,"
+## Status
+Still learning — more updates coming soon as I progress through the course.
